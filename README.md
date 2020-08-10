@@ -1,5 +1,5 @@
-# Data Science Portfolio
-#### [Greg Tozzi](https://www.linkedin.com/in/gregorytozzi/) | August, 2020
+# [Greg Tozzi's](https://www.linkedin.com/in/gregorytozzi/) Data Science Portfolio
+#### UC Berkeley School of Information | August, 2020
 ### Projects
 - [Toward Automated Celestial Navigation with Deep Learning](https://github.com/gregtozzi/automated_celnav) - Python | TensorFlow | Docker | Edge
 - [Diagnosing Pneumonia from Pediatric Chest X-Rays with Deep Learning](https://github.com/gregtozzi/diagnosing_pneumonia) - Python | NumPy | TensorFlow
